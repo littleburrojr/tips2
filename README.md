@@ -1,4 +1,4 @@
-# tips
+# tips2
 This is a second go-round on the pre-homework assignment for the CodePath Swift for Designers course. I added some design and functional details. 
 
 The app allows you to enter a bill total, select a tip amount and see the total amount owed. 
