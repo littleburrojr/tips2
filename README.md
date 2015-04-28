@@ -7,8 +7,9 @@ Time spent: 5+hrs
 
 Completed user stories: 
 - Changed colors, fonts and layouts
-- Display tip amount for split bill
+- Display total amount for split bill between 2-4 people
 - View a total amount due
+- Can clear the bill amount field with X 
 
 Issues:
 - First build of app started freezing at launch screen once I finished. I had to completely re-do from scratch.
@@ -17,4 +18,4 @@ Issues:
 - I could not figure out how to include the dollar sign in the empty form field
 
 Walkthrough of all user stories:
-
+<img src="https://github.com/littleburrojr/tips2/blob/master/tip2gif.gif">
