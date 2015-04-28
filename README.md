@@ -9,10 +9,11 @@ Completed user stories:
 - Changed colors, fonts and layouts
 - Display total amount for split bill between 2-4 people
 - View a total amount due
-- Can clear the bill amount field with X 
+- Can clear the bill amount field with X
+- Added title bar
 
 Issues:
-- First build of app started freezing at launch screen once I finished. I had to completely re-do from scratch.
+- First app started freezing on the launch screen once I finished code adjustments. I was unable to de-bug and had to completely re-do from scratch.
 - Second build of app built successfully then crashed when keyboard was used; I had to de-bug and partially re-build the app
 - I could not figure out animations or transitions
 - I could not figure out how to include the dollar sign in the empty form field
