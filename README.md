@@ -1,15 +1,20 @@
 # tips
-This is the pre-homework assignment for the CodePath Swift for Designers course. The app allows you to enter a bill total, select a tip amount and see the total amount owed. 
+This is a second go-round on the pre-homework assignment for the CodePath Swift for Designers course. I added some design and functional details. 
 
-Time spent: 2hrs
+The app allows you to enter a bill total, select a tip amount and see the total amount owed. 
+
+Time spent: 5+hrs
 
 Completed user stories: 
-- Enter a bill amount
-- Select a tip amount
+- Changed colors, fonts and layouts
+- Display tip amount for split bill
 - View a total amount due
 
-Note:
-- Had some issues getting xCode up and running but then figured it out. 
+Issues:
+- First build of app started freezing at launch screen once I finished. I had to completely re-do from scratch.
+- Second build of app built successfully then crashed when keyboard was used; I had to de-bug and partially re-build the app
+- I could not figure out animations or transitions
+- I could not figure out how to include the dollar sign in the empty form field
 
 Walkthrough of all user stories:
 
