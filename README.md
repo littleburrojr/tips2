@@ -18,4 +18,5 @@ Issues:
 - I could not figure out how to include the dollar sign in the empty form field
 
 Walkthrough of all user stories:
+
 <img src="https://github.com/littleburrojr/tips2/blob/master/tip2gif.gif">
